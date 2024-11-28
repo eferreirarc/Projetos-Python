@@ -1,0 +1,5 @@
+print('oi oi oi oi oi oi oi')
+print('oi eu sou eu')
+print('passarinho tadinho')
+print('maria é falsinha')
+print('davi e golias')
